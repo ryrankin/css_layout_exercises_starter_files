@@ -1,0 +1,59 @@
+body {
+	font-family: "Roboto", sans-serif;
+	margin: 0;
+	padding: 40px;
+	width: 1000px;
+	display: block;
+}
+
+.container {
+	width: 100%;
+	display: inline-block;
+	margin-right: auto;
+	background-color: grey;
+	padding: 10px;
+	padding-right: 220px;
+
+
+}
+
+nav { 	
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+
+header {
+	margin-top: -10px;
+	background-color: grey;
+	position: relative;
+}
+
+nav-bar {
+	position: relative;
+	margin-top: 100px;
+	margin-right: 140px;
+
+}
+.magnifying-glass {
+	width: 23px;
+	margin
+}
+
+input {
+	width: 300px;
+	height: 30px;
+	font-size: 10px;
+}
+
+.search-button {
+	padding-top: 10px;
+}
+
+
+
+
+
+
+	
